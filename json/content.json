@@ -1,0 +1,51 @@
+[
+	{
+		"name": "Freelancer",
+		"tag": "Mobile",
+		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.",
+		"contact": {
+			"whatsapp": "+5491135625141",
+			"telegram": "celero_n"
+		},
+		"language": [
+			"Java",
+			"SQLite"
+		]
+	},
+	{
+		"name": "Organización",
+		"tag": "Web",
+		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
+		"contact": {
+			"google": "blank.org",
+			"mail": "makemeceleron@protonmail.com"
+		}
+	},
+	{
+		"name": "Freelancer",
+		"tag": "Desktop",
+		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
+		"contact": {
+			"facebook": "facundoJ",
+			"mail": "makemeceleron@protonmail.com",
+			"whatsapp": "+5491128328383",
+			"instagram": "qceyo"
+		},
+		"language": [
+			"C++",
+			"Qt5",
+			"SQLite"
+		]
+	},
+	{
+		"name": "Organización",
+		"tag": "Machine Learning",
+		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar",
+		"contact": {
+			"google": "blank.org"
+		},
+		"language": [
+			"Python"
+		]
+	}
+]
