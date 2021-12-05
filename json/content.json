@@ -2,7 +2,12 @@
 	{
 		"name": "Freelancer",
 		"tag": "Mobile",
+		"service": "Aplicación movil",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.",
+		"rate": "15",
+		"OS": [
+			"Android"
+		],
 		"contact": {
 			"whatsapp": "+5491135625141",
 			"telegram": "celero_n"
@@ -13,18 +18,45 @@
 		]
 	},
 	{
+		"name": "Freelancer 2",
+		"tag": "Mobile",
+		"service": "Aplicación movil",
+		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.",
+		"rate": "10",
+		"OS": [
+			"Android",
+			"Apple"
+		],
+		"contact": {
+			"whatsapp": "+5491135625141",
+			"telegram": "celero_n"
+		},
+		"language": [
+			"C#",
+			"SQLite",
+			"MySQL"
+		]
+	},
+	{
 		"name": "Organización",
 		"tag": "Web",
+		"service": "Página web",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
+		"rate": "25",
 		"contact": {
 			"google": "blank.org",
 			"mail": "makemeceleron@protonmail.com"
 		}
 	},
 	{
-		"name": "Freelancer",
+		"name": "Organización",
 		"tag": "Desktop",
+		"service": "Aplicación de escritorio",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
+		"rate": "30",
+		"OS": [
+			"Linux"	
+		],
 		"contact": {
 			"facebook": "facundoJ",
 			"mail": "makemeceleron@protonmail.com",
@@ -32,15 +64,46 @@
 			"instagram": "qceyo"
 		},
 		"language": [
-			"C++",
-			"Qt5",
+			"C++"
+		],
+		"framework": [
+			"Qt5"
+		],
+		"database": [
+			"SQLite"
+		]
+	},
+	{
+		"name": "Freelancer",
+		"tag": "Desktop",
+		"service": "Aplicación de escritorio",
+		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
+		"rate": "15",
+		"OS": [
+			"Windows"	
+		],
+		"contact": {
+			"facebook": "facundoJ",
+			"mail": "makemeceleron@protonmail.com",
+			"whatsapp": "+5491128328383",
+			"instagram": "qceyo"
+		},
+		"language": [
+			"C++"
+		],
+		"framework": [
+			"Qt5"
+		],
+		"database": [
 			"SQLite"
 		]
 	},
 	{
 		"name": "Organización",
 		"tag": "Machine Learning",
-		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar",
+		"service": "Inteligencia artificial",
+		"description": "Lipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar",
+		"rate": "40",
 		"contact": {
 			"google": "blank.org"
 		},

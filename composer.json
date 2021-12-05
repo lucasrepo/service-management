@@ -1,0 +1,7 @@
+{
+    "name": "celeron/demos",
+    "description": "demos",
+    "require": {
+        "eftec/bladeone": "^4.1"
+    }
+}
