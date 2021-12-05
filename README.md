@@ -1,4 +1,4 @@
-#Service Management
-* Dependencias (pocas): PHP >= 7.2 y un webservice.
-* Framework css utilizado: [UiKit]("getuikit.com")
-* Blade Template engine: [BladeOne]("https://github.com/EFTEC/BladeOne/")
+# Gestión de servicios IT
+* Dependencias (pocas): PHP >= 7.2 y un webservice. [Composer](https://getcomposer.org/)
+* Framework css utilizado: [UiKit](getuikit.com/docs/introduction)
+* Blade Template engine: [BladeOne](https://github.com/EFTEC/BladeOne)
