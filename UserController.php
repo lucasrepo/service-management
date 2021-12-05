@@ -81,11 +81,14 @@ class UserController
 	{
 		$str .= '<div tag-rate="'.$user["rate"].'" tag="'.str_replace(" ", "", $user["tag"]).'" ';
 
-		foreach ($index as $elem => $key) {
+		foreach ($index as $elem => $key)
+		{
+			$str .= 'tag-'.$key.'="';
 			foreach ($user[$elem] as $value)
 			{
-				$str .= 'tag-'.$key.'="'. $value.'" ';
+				$str .= $value.PHP_EOL;
 			}
+			$str .= '" ';
 		}
 
 		echo $str.'>';
