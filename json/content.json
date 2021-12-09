@@ -2,6 +2,10 @@
 	{
 		"name": "Freelancer",
 		"tag": "Mobile",
+		"img": [
+			"Desktop-dev.jpg",
+			"Machine Learning-dev.jpg"
+		],
 		"service": "Aplicación movil",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.",
 		"rate": "15",
@@ -23,6 +27,10 @@
 		"service": "Aplicación movil",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.",
 		"rate": "10",
+		"img": [
+			"Desktop-dev.jpg",
+			"Machine Learning-dev.jpg"
+		],
 		"OS": [
 			"Android",
 			"Apple"
@@ -40,6 +48,10 @@
 	{
 		"name": "Organización",
 		"tag": "Web",
+		"img": [
+			"Desktop-dev.jpg",
+			"Machine Learning-dev.jpg"
+		],
 		"service": "Página web",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
 		"rate": "25",
@@ -51,6 +63,10 @@
 	{
 		"name": "Organización",
 		"tag": "Desktop",
+		"img": [
+			"Desktop-dev.jpg",
+			"Machine Learning-dev.jpg"
+		],
 		"service": "Aplicación de escritorio",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
 		"rate": "30",
@@ -76,6 +92,10 @@
 	{
 		"name": "Freelancer",
 		"tag": "Desktop",
+		"img": [
+			"Desktop-dev.jpg",
+			"Machine Learning-dev.jpg"
+		],
 		"service": "Aplicación de escritorio",
 		"description": "Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae",
 		"rate": "15",
@@ -101,6 +121,10 @@
 	{
 		"name": "Organización",
 		"tag": "Machine Learning",
+		"img": [
+			"Desktop-dev.jpg",
+			"Machine Learning-dev.jpg"
+		],
 		"service": "Inteligencia artificial",
 		"description": "Lipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatarLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitae.Lorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar vitaeLorem ipsum dolor sit amet, conse adipiscing elit. Prae eget massatar",
 		"rate": "40",

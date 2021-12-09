@@ -95,6 +95,12 @@
 							       		@endif
 							       		{{-- FINALIZA LISTADO DE LENGUAJES --}}
 
+							       		@if(null !== $user["img"])
+							       			@foreach($user["img"] as $imgUrl)
+							       				<img data-src="img/{{ $imgUrl }}" width="700" height="500" alt="{{ $imgUrl }}" uk-img>
+							       			@endforeach
+							       		@endif
+
 							        	</div>
 							        	<div class="uk-align-center">
 							            {{-- COMIENZA CONTACTOS --}}
@@ -130,7 +136,6 @@
 	<!-- END FILTER -->
 </div>
 </div>
-
 @endsection
 
 @section('footer')
