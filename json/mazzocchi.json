@@ -1,0 +1,26 @@
+{
+    "name": "Brian Mazzocchi",
+    "tag": "Web",
+    "services": [
+        "Páginas web"
+        ],
+    "start_year":2020,
+    "description": "Creo sistemas personalizables y adaptables para un proceso optimizado que aumentan la productividad y las ventas. Además, brindo servicios de consultoría debido a que la realización del proyecto tiene diferentes etapas y es normal que en cada una de ellas surjan dudas sobre qué camino tomar. Por eso te asesoro y acompaño constantemente para que puedas estar seguro de que lo que eliges es lo mejor",
+    "rate": "5",
+    "contact": {
+        "mail": "rivasdev@protonmail.com",
+        "whatsapp": "+5491154107508"
+    },
+    "language": [
+        "PHP",
+        "JS",
+        "HTML",
+        "CSS"
+    ],
+    "framework": [
+        "ReactJs"
+    ],
+    "database": [
+        "MySQL"
+    ]
+}

@@ -12,7 +12,7 @@
 
 			@foreach ($tags as $tag => $service)
 			<li uk-filter-control="filter: [tag='{{ str_replace(" ", "", $tag) }}']; group: tag" style="margin: 2px;">
-				<a href="#" uk-toggle="target: .toggle-{{ str_replace(" ", "", $tag) }}">
+				<a href="#">
 					{{ $service }}
 				</a>
 			</li>
@@ -27,35 +27,6 @@
 	    </ul>
 	</div>
 	<!-- FINALIZA OPCIONES -->
-
-	<!-- COMIENZA FILTRO AVANZADO -->
-	<form>
-	<ul class="uk-subnav uk-subnav-pill" uk-form-custom="target: true">
-
-	<?php $index = ["language"=>"lang", "OS"=>"platf", "framework"=>"fram", "database"=>"dat"]; $elem_usado = []; ?>
-
-	@foreach ($users as $user)
-
-		<li class="toggle-{{ $user["tag"] }}"></li>
-		
-		@foreach($index as $ind => $tagElem)
-			@foreach($user[$ind] as $elem)
-				@if(in_array($elem, $elem_usado))
-					@continue
-				@endif
-
-				<?php array_push($elem_usado, $elem); ?>
-
-				<li uk-filter-control="selActive: true; filter: [tag-{{ $tagElem }}*='{{ $elem }}']; group: tag-{{ $tagElem }}"><a href="#" class="toggle-{{ str_replace(" ", "", $user["tag"]) }}" hidden>{{ $elem }}</a></li>
-
-			@endforeach
-		@endforeach
-		
-	@endforeach
-
-	</ul>
-	</form>
-	<!-- FINALIZA FILTRO AVANZADO -->
 
 	<!-- COMIENZA FILTER -->
 	<div class="uk-child-width-1-3@m uk-child-width-1-2@s uk-grid-match uk-text-center uk-margin-medium-top js-filter" uk-grid>
